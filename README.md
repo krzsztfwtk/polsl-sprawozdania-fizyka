@@ -1,1 +1,30 @@
 # polsl-sprawozdania-fizyka
+
+W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperymentów fizycznych, realizowanych na laboratoriach fizyki🔬 na Informatyce💻 - Semestr 3 na Politechnice Śląskiej🎓 Dodaję tu tylko sprawdzone i ocenione pozytywnie sprawozdania✅.
+
+## Eksperymenty 🧪
+
+1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](#uwaga)  🌍
+2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](#uwaga)  💧
+3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](#uwaga)  🧲
+4. [Badanie rezonansu w szeregowym obwodzie LC.](#uwaga)  🔊
+5. [Badanie zjawiska Halla.](#uwaga)  📡
+6. [Wyznaczanie szerokości przerwy energetycznej półprzewodnika metodą termiczną (termistor).](#uwaga)  🔥
+7. [Wyznaczanie charakterystyk fotodiody.](#uwaga)  🌟
+8. [Wyznaczanie współczynnika załamania światła metodą pryzmatu.](./wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu.pdf)  🔍
+9. [Wyznaczanie maksymalnej energii promieniowania beta metodą absorpcyjną.](./wyznaczanie_maksymalnej_energii_promieniowania_beta_metoda_absorpcyjna.pdf)  ☢️
+10. [Badania fotokomórki.](./wyznaczanie_charakterystyk_fotokomorki_gazowanej.pdf)  📸
+11. [Drgania relaksacyjne.](./badanie_drgan_relaksacyjnych_w_ukladzie_rc.pdf)  ⏱️
+12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](#uwaga)  🎵
+
+### Uwaga
+
+_**Uwaga:** Nie wszystkie sprawozdania mogą być jeszcze dostępne, gdyż prace nad nimi wciąż trwają!_ ⚠️
+
+## Jak Korzystać z Repozytorium ❓
+
+Każdy plik PDF związany z konkretnym eksperymentem możesz pobrać, klikając na odpowiedni link powyżej.
+
+## Kontakt 📬
+
+Jeśli masz pytania lub sugestie, nie wahaj się utworzyć 'Issue' na githubie.
