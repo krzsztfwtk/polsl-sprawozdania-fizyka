@@ -4,7 +4,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 
 ## Eksperymenty 🧪
 
-1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](#uwaga)  🌍
+1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](./wyznaczanie_przyspieszenia_ziemskiego_metoda_wahadla_matematycznego.pdf)  🌍
 2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](#uwaga)  💧
 3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](#uwaga)  🧲
 4. [Badanie rezonansu w szeregowym obwodzie LC.](#uwaga)  🔊
@@ -15,7 +15,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 9. [Wyznaczanie maksymalnej energii promieniowania beta metodą absorpcyjną.](./wyznaczanie_maksymalnej_energii_promieniowania_beta_metoda_absorpcyjna.pdf)  ☢️
 10. [Badania fotokomórki.](./wyznaczanie_charakterystyk_fotokomorki_gazowanej.pdf)  📸
 11. [Drgania relaksacyjne.](./badanie_drgan_relaksacyjnych_w_ukladzie_rc.pdf)  ⏱️
-12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](#uwaga)  🎵
+12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](./wyznaczanie_predkosci_dzwieku_w_powietrzu_metoda_rezonansowa_quincky_ego.pdf)  🎵
 
 ### Uwaga
 
