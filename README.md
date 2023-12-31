@@ -29,4 +29,7 @@ Każdy plik PDF związany z konkretnym eksperymentem możesz pobrać, klikając 
 
 ## Kontakt 📬
 
-Jeśli masz pytania lub sugestie, nie wahaj się utworzyć 'Issue' na githubie.
+Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issue' na GitHubie.
+Jeżeli potrzebujesz dedykowanej pomocy 💲💵, napisz tutaj:
+
+![kontakt](./kontakt.png)
