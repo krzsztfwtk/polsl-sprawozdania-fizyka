@@ -5,7 +5,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 ## Eksperymenty 🧪
 
 1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](./wyznaczanie_przyspieszenia_ziemskiego_metoda_wahadla_matematycznego.pdf)  🌍
-2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](#uwaga)  💧
+2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](./wyznaczanie_wspolczynnika_lepkosci_powietrza_metoda_kapilarna.pdf)  💧
 3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](#uwaga)  🧲
 4. [Badanie rezonansu w szeregowym obwodzie LC.](#uwaga)  🔊
 5. [Badanie zjawiska Halla.](#uwaga)  📡
