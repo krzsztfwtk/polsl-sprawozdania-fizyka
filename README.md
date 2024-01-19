@@ -6,8 +6,8 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 
 1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](./wyznaczanie_przyspieszenia_ziemskiego_metoda_wahadla_matematycznego.pdf)  🌍
 2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](./wyznaczanie_wspolczynnika_lepkosci_powietrza_metoda_kapilarna.pdf)  💧
-3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](#uwaga)  🧲
-4. [Badanie rezonansu w szeregowym obwodzie LC.](#uwaga)  🔊
+3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](./wyznaczanie_ladunku_wlasciwego_elektronu_metoda_poprzecznego_pola_magnetycznego_lampa_thomsona.pdf)  🧲
+4. [Badanie rezonansu w szeregowym obwodzie LC.](./badanie_rezonansu_w_szeregowym_obwodzie_lc.pdf)  🔊
 5. [Badanie zjawiska Halla.](#uwaga)  📡
 6. [Wyznaczanie szerokości przerwy energetycznej półprzewodnika metodą termiczną (termistor).](#uwaga)  🔥
 7. [Wyznaczanie charakterystyk fotodiody.](./wyznaczanie_charakterystyk_fotodiody.pdf)  🌟
