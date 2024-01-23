@@ -8,7 +8,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](./wyznaczanie_wspolczynnika_lepkosci_powietrza_metoda_kapilarna.pdf)  💧
 3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](./wyznaczanie_ladunku_wlasciwego_elektronu_metoda_poprzecznego_pola_magnetycznego_lampa_thomsona.pdf)  🧲
 4. [Badanie rezonansu w szeregowym obwodzie LC.](./badanie_rezonansu_w_szeregowym_obwodzie_lc.pdf)  🔊
-5. [Badanie zjawiska Halla.](#uwaga)  📡
+5. [Badanie zjawiska Halla.](./badanie_zjawiska_halla.pdf)  📡
 6. [Wyznaczanie szerokości przerwy energetycznej półprzewodnika metodą termiczną (termistor).](#uwaga)  🔥
 7. [Wyznaczanie charakterystyk fotodiody.](./wyznaczanie_charakterystyk_fotodiody.pdf)  🌟
 8. [Wyznaczanie współczynnika załamania światła metodą pryzmatu.](./wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu.pdf)  🔍
