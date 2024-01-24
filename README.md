@@ -30,6 +30,6 @@ Każdy plik PDF związany z konkretnym eksperymentem możesz pobrać, klikając 
 ## Kontakt 📬
 
 Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issue' na GitHubie.
-Jeżeli potrzebujesz dedykowanej pomocy, przykładowych arkuszy Excela, dokumentów w Wordzie oraz dodatkowych narzędzi np. do rysowania wykresów, 💲💵 napisz tutaj:
+Jeżeli potrzebujesz dedykowanej pomocy, przykładowych arkuszy Excela, dokumentów w Wordzie oraz dodatkowych narzędzi np. do rysowania wykresów, 💵 napisz tutaj 💲:
 
 ![kontakt](./kontakt.png)
