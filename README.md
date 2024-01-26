@@ -4,18 +4,18 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 
 ## Eksperymenty 🧪
 
-1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](./wyznaczanie_przyspieszenia_ziemskiego_metoda_wahadla_matematycznego.pdf)  🌍
-2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](./wyznaczanie_wspolczynnika_lepkosci_powietrza_metoda_kapilarna.pdf)  💧
-3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](./wyznaczanie_ladunku_wlasciwego_elektronu_metoda_poprzecznego_pola_magnetycznego_lampa_thomsona.pdf)  🧲
-4. [Badanie rezonansu w szeregowym obwodzie LC.](./badanie_rezonansu_w_szeregowym_obwodzie_lc.pdf)  🔊
-5. [Badanie zjawiska Halla.](./badanie_zjawiska_halla.pdf)  📡
+1. [Wyznaczanie przyspieszenia ziemskiego metodą wahadła matematycznego.](./sources/wyznaczanie_przyspieszenia_ziemskiego_metoda_wahadla_matematycznego.pdf)  🌍
+2. [Wyznaczanie współczynnika lepkości powietrza metodą kapilarną.](./sources/wyznaczanie_wspolczynnika_lepkosci_powietrza_metoda_kapilarna.pdf)  💧
+3. [Wyznaczanie ładunku właściwego elektronu metodą poprzecznego pola magnetycznego (lampa Thomsona).](./sources/wyznaczanie_ladunku_wlasciwego_elektronu_metoda_poprzecznego_pola_magnetycznego_lampa_thomsona.pdf)  🧲
+4. [Badanie rezonansu w szeregowym obwodzie LC.](./sources/badanie_rezonansu_w_szeregowym_obwodzie_lc.pdf)  🔊
+5. [Badanie zjawiska Halla.](./sources/badanie_zjawiska_halla.pdf)  📡
 6. [Wyznaczanie szerokości przerwy energetycznej półprzewodnika metodą termiczną (termistor).](#uwaga)  🔥
-7. [Wyznaczanie charakterystyk fotodiody.](./wyznaczanie_charakterystyk_fotodiody.pdf)  🌟
-8. [Wyznaczanie współczynnika załamania światła metodą pryzmatu.](./wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu.pdf)  🔍
-9. [Wyznaczanie maksymalnej energii promieniowania beta metodą absorpcyjną.](./wyznaczanie_maksymalnej_energii_promieniowania_beta_metoda_absorpcyjna.pdf)  ☢️
-10. [Badania fotokomórki.](./wyznaczanie_charakterystyk_fotokomorki_gazowanej.pdf)  📸
-11. [Drgania relaksacyjne.](./badanie_drgan_relaksacyjnych_w_ukladzie_rc.pdf)  ⏱️
-12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](./wyznaczanie_predkosci_dzwieku_w_powietrzu_metoda_rezonansowa_quincky_ego.pdf)  🎵
+7. [Wyznaczanie charakterystyk fotodiody.](./sources/wyznaczanie_charakterystyk_fotodiody.pdf)  🌟
+8. [Wyznaczanie współczynnika załamania światła metodą pryzmatu.](./sources/wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu.pdf)  🔍
+9. [Wyznaczanie maksymalnej energii promieniowania beta metodą absorpcyjną.](./sources/wyznaczanie_maksymalnej_energii_promieniowania_beta_metoda_absorpcyjna.pdf)  ☢️
+10. [Badania fotokomórki.](./sources/wyznaczanie_charakterystyk_fotokomorki_gazowanej.pdf)  📸
+11. [Drgania relaksacyjne.](./sources/badanie_drgan_relaksacyjnych_w_ukladzie_rc.pdf)  ⏱️
+12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](./sources/wyznaczanie_predkosci_dzwieku_w_powietrzu_metoda_rezonansowa_quincky_ego.pdf)  🎵
 
 ### Uwaga
 
