@@ -21,7 +21,10 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 
 _**Uwaga:** Nie wszystkie sprawozdania mogą być jeszcze dostępne, gdyż prace nad nimi wciąż trwają!_ ⚠️
 
-W repozytorium zamieszczone są wyłącznie obliczenia i analiza danych 📊. Wstępy teoretyczne zostały pominięte, gdyż teorię dobrze opisaną można znaleźć w odpowiednich źródłach takich jak [OpenStax](https://openstax.org/subjects/science), gdzie dostępne są darmowe podręczniki.
+- W repozytorium zamieszczone są wyłącznie obliczenia i analiza danych 📊. Wstępy teoretyczne zostały pominięte, gdyż teorię dobrze opisaną można znaleźć w odpowiednich źródłach takich jak [OpenStax](https://openstax.org/subjects/science), gdzie dostępne są darmowe podręczniki.
+- Dziękuję za zainterowanie, którym cieszy się repozytorium. Jeśli uznasz je za przydatne, zachęcam do zostawienia gwiazdki.
+- Proszę nie pisać do mnie z próśbami o `bezinteresowną` pomoc w przygotowywaniu sprawozdań. Jestem zaangażowany w własne projekty i nie dysponuję wystarczającą ilością wolnego czasu, aby `bezinteresownie` pomagać każdemu, kto do mnie napisze, w obliczeniach, interpretacji danych czy przygotowywaniu wykresów.
+
 
 ## Jak Korzystać z Repozytorium ❓
 
