@@ -23,11 +23,10 @@ _**Uwaga:** Nie wszystkie sprawozdania mogą być jeszcze dostępne, gdyż prace
 
 - W repozytorium zamieszczone są wyłącznie obliczenia i analiza danych 📊. Wstępy teoretyczne zostały pominięte, gdyż teorię dobrze opisaną można znaleźć w odpowiednich źródłach takich jak [OpenStax](https://openstax.org/subjects/science), gdzie dostępne są darmowe podręczniki.
 - Na wykresach czasami pojawiają się opisy np. `f=I(U)`. Te opisy nie są potrzebne, ponieważ widać to na poprawnie oznaczonych osiach. 
-- Na legendach do wykresów pojawia się zapis naukowy (np. `1.23e+04`). Lepiej używać zwykłego zapisu wykładniczego np.:
-  $$ 1.23 \times 10^4 $$
+- Na legendach do wykresów pojawia się zapis naukowy (np. `1.23e+04`). Lepiej używać zwykłego zapisu wykładniczego np.:  
+$$ 1.23 \times 10^4 $$
 - Dziękuję za zainterowanie, którym cieszy się repozytorium. Jeśli uznasz je za przydatne, zachęcam do zostawienia gwiazdki.
 - Proszę nie pisać do mnie z próśbami o `bezinteresowną` pomoc w przygotowywaniu sprawozdań. Jestem zaangażowany w własne projekty i nie dysponuję wystarczającą ilością wolnego czasu, aby `bezinteresownie` pomagać każdemu, kto do mnie napisze, w obliczeniach, interpretacji danych czy przygotowywaniu wykresów.
-
 
 ## Jak Korzystać z Repozytorium ❓
 
