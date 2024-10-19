@@ -1,5 +1,7 @@
 # polsl-sprawozdania-fizyka
 
+*Zobacz też: [polsl-sprawozdania-tuc](https://github.com/krzsztfwtk/polsl-sprawozdania-tuc)*
+
 W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperymentów fizycznych, realizowanych na laboratoriach fizyki🔬 na Informatyce💻 - Semestr 3 na Politechnice Śląskiej🎓 Dodaję tu tylko sprawdzone i ocenione pozytywnie sprawozdania✅.
 
 ## Eksperymenty 🧪
