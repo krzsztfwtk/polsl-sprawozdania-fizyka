@@ -19,7 +19,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z eksperyment
 11. [Drgania relaksacyjne.](./sources/badanie_drgan_relaksacyjnych_w_ukladzie_rc.pdf)  ⏱️
 12. [Pomiar prędkości dźwięku w powietrzu - rura Quinckego.](./sources/wyznaczanie_predkosci_dzwieku_w_powietrzu_metoda_rezonansowa_quincky_ego.pdf)  🎵
 
-### Uwaga
+### Uwagi
 
 - W repozytorium zamieszczone są wyłącznie obliczenia i analiza danych 📊. Wstępy teoretyczne zostały pominięte, gdyż teorię dobrze opisaną można znaleźć w odpowiednich źródłach takich jak [OpenStax](https://openstax.org/subjects/science), gdzie dostępne są darmowe podręczniki.
 - Na wykresach czasami pojawiają się opisy np. `f=I(U)`. Te opisy nie są potrzebne, ponieważ widać to na poprawnie oznaczonych osiach. 
